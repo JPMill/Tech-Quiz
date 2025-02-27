@@ -24,5 +24,5 @@ Tech Quiz is designed for aspiring developers and tech enthusiasts to challenge 
 - Timed quizzes for an added challenge.
 
 ## License
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
