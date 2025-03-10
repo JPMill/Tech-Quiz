@@ -4,5 +4,4 @@ describe('Quiz Component', () => {
         cy.contains('Start Quiz', { timeout: 10000 }).should('be.visible');
     });
   
-    // Add more tests as needed
   });
